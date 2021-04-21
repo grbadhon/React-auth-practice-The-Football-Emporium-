@@ -1,0 +1,58 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.details-header-img{
+    height: 60%;
+    margin: auto;
+}
+.leagueDetailsHeader{
+    background: linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url("https://www.thesportsdb.com/images/media/team/stadium/w1anwa1588432105.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 400px;
+    margin-bottom: 50px;
+}
+.gender-image{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.clubinfo-div{
+    color: white;
+    background-color: blue;
+    margin: 0px 80px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.left-div{
+    margin:auto;
+    padding: 4em;
+}
+.description-div{
+    margin: 20px 80px;
+}
+.icon-image{
+    width: 60%;
+}
+.socialIcon-div{
+    margin: 50px auto 20px auto;
+}
+.icons{
+    margin-right: 5px;
+}
+.social-icons{
+    font-size: 35px;
+}
+.yt-icon{
+    color: red;
+}
+.yt-icon:hover{
+    color: rgb(177, 39, 39);
+}
+.home-button-div{
+    margin:auto;
+}
+.home-button{
+    width: 100%;
+}
